@@ -63,7 +63,7 @@ main{
     background-color: var(--rawBean);
 }
 
-@media only screen and (max-width:960px){
+@media only screen and (max-width:560px){
     main{
         flex-direction: column;
     }
