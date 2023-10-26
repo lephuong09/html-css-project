@@ -9,3 +9,4 @@
 <p>-display cart and remove from cart HTML [Heena]</p><br> 
 <p> make header and footer appropriate [Tjhai]</p><br>
 <p> add about section</p><br>
+<p>Add Media Query</p>
