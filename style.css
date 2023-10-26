@@ -1,0 +1,63 @@
+* {
+    border-style: solid;
+
+}
+
+body {
+    
+}
+
+
+
+header{
+    display:flex;
+    justify-content: space-between;
+    align-content:center;
+}
+.headLogo{
+    width:10px;
+    height:10px;
+    background-color: blue;
+    border-radius: 50%;
+    /* align-items: center; */
+    /* //This is silly whhy are they all named the same! */
+
+}
+header nav{
+
+}
+
+
+
+main{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin:0;
+}
+
+#shop{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+/* @media only screen and (max-width:420px){
+    .contactDiv{
+        flex-direction: column;
+    }
+} */
+
+
+footer{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footLogo {
+    width:10px;
+    height:10px;
+    background-color: rgb(228, 172, 20);
+    border-radius: 50%;
+}
