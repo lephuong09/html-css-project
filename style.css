@@ -113,7 +113,11 @@ main{
 .shopItem__button {
     margin-top: 10px;
 }
-
+.shopItem__button:hover{
+    background-color: var(--darkRoast);
+    margin-top: 10px;
+    margin-right: 27%;
+}
 .productImg {
     width: 150px;
     height: 150px;
@@ -190,6 +194,17 @@ main{
     font-size: 20px;
     cursor: pointer;
    }
+   .count_btn:hover{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    background-color: var(--lightRoast);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    cursor: pointer;
+   }
    .count{
     font-size: 16px;
    }
@@ -211,6 +226,9 @@ main{
    .checkout{
     
    }
+   /* .checkout:hover{
+    background-color: var(--lightRoast);
+   } */
    .total{
     width: 100%;
     display: flex;
