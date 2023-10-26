@@ -4,5 +4,6 @@
 <p>-get image for each thing in shop</p><br>
 <p>-(NOT NEEDED?) make add to cart functionality </p><br>
 <p>-choose a colour pallette (e.g. search coffee color palette) [tjhai]</p><br>
+<p>-Plaette found at : https://icolorpalette.com/download/palette/28728_color_palette.jpg</p><br>
 <p>- and modify CSS</p><br>
-<p>-display cart and remove from cart HTML [Heena]</p><br> []
+<p>-display cart and remove from cart HTML [Heena]</p><br> 
