@@ -48,12 +48,15 @@ header nav{
 }
 
 .nav-links a{
-    background-color: #d3b090;
+    color: #f8f0dd;
     padding:5px ;
     margin:auto 10px;
     text-decoration: none;
-    color:black;
     border-radius: 3px;
+}
+
+.nav-links a:hover{
+    color: #202020;
 }
 
 /* MAIN SECTION */
@@ -113,11 +116,7 @@ main{
 .shopItem__button {
     margin-top: 10px;
 }
-.shopItem__button:hover{
-    background-color: var(--darkRoast);
-    margin-top: 10px;
-    margin-right: 27%;
-}
+
 .productImg {
     width: 150px;
     height: 150px;
@@ -244,13 +243,20 @@ main{
    }
    .total-cost{
    }
-   .btn{
-    margin-top: 5px;
-    width: 100%;
+   .btnCheckout{
+    font-size: 18px;
     height: 40px;
     border: none;
     border-radius: 20px;
     cursor: pointer;
+    margin: 5px auto;
+    background-color: #936e4e;
+    color: #f8f0dd;
+   }
+
+   .btnCheckout:hover {
+    background-color: #593b24;
+    color: #f8f0dd;
    }
 
 /* FOOTER */
