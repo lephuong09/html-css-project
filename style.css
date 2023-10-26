@@ -63,11 +63,11 @@ main{
     background-color: var(--rawBean);
 }
 
-/* @media only screen and (max-width:420px){
-    .contactDiv{
+@media only screen and (max-width:960px){
+    main{
         flex-direction: column;
     }
-} */
+}
 
 .shopItem {
     margin: 20px;
