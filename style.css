@@ -1,3 +1,11 @@
+:root {
+    --darkRoast: #593b24;
+    --boneWhite: #f8f0dd;
+    --rawBean:#a3a869;
+    --beige:#d3b090;
+    --lightRoast:#936e4e;
+  }
+
 * {
     border-style: solid;
 
@@ -13,6 +21,7 @@ header{
     display:flex;
     justify-content: space-between;
     align-content:center;
+    background-color: var(--lightRoast);
 }
 .headLogo{
     width:10px;
@@ -40,6 +49,7 @@ main{
     display:flex;
     flex-direction: row;
     flex-wrap: wrap;
+    background-color: var(--boneWhite);
 }
 
 /* @media only screen and (max-width:420px){
@@ -53,6 +63,7 @@ footer{
     display:flex;
     flex-direction: row;
     justify-content: space-between;
+    background-color: var(--darkRoast);
 }
 
 .footLogo {
