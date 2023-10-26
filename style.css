@@ -1,3 +1,4 @@
+/* GLOBAL */
 :root {
     --darkRoast: #593b24;
     --boneWhite: #f8f0dd;
@@ -7,17 +8,18 @@
 }
 
 
-/* 
 * {
-    border-style: solid;
-
-} */
-
-body {
-    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
+html,
+body {
+    font-family: 'Roboto Slab', serif;
+}
 
+/* HEADER */
 
 header{
     display:flex;
@@ -25,16 +27,12 @@ header{
     align-content:center;
     background-color: var(--lightRoast);
     max-height: 30px;
-    
 }
 /* .headLogo{
     width:10px;
     height:10px;
     background-color: blue;
     border-radius: 50%;
-    /* align-items: center; */
-    /* //This is silly whhy are they all named the same! */
-
 } */
 header img{
     /* width:10px;
@@ -45,7 +43,7 @@ header nav{
 
 }
 
-
+/* MAIN SECTION */
 
 main{
     display:flex;
@@ -58,6 +56,8 @@ main{
     flex-direction: row;
     flex-wrap: wrap;
     background-color: var(--boneWhite);
+    margin: auto;
+    padding: 100px 0;
 }
 #cart{
     background-color: var(--rawBean);
@@ -69,6 +69,39 @@ main{
     }
 } */
 
+.shopItem {
+    margin: 20px;
+}
+
+.shopItem__content {
+    margin-top: 10px;
+    line-height: 1.5;
+}
+
+.shopItem__button {
+    margin-top: 10px;
+}
+
+.productImg {
+    width: 150px;
+    height: 150px;
+}
+
+.cartBtn {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color:#d3b090;
+}
+
+.cartBtn:hover {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color:#936e4e;
+    color: #f8f0dd;
+}
+/* FOOTER */
 
 footer{
     display:flex;
