@@ -52,6 +52,9 @@ main{
     flex-wrap: wrap;
     background-color: var(--boneWhite);
 }
+#cart{
+    background-color: var(--rawBean);
+}
 
 /* @media only screen and (max-width:420px){
     .contactDiv{
