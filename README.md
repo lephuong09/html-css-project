@@ -5,4 +5,4 @@
 <p>-(NOT NEEDED?) make add to cart functionality </p><br>
 <p>-choose a colour pallette (e.g. search coffee color palette) [tjhai]</p><br>
 <p>- and modify CSS</p><br>
-<p>-figure out where/how we want to display cart and remove from cart</p><br>
+<p>-display cart and remove from cart HTML [Heena]</p><br> []
