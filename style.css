@@ -7,11 +7,11 @@
 }
 
 
-
+/* 
 * {
     border-style: solid;
 
-}
+} */
 
 body {
     
@@ -24,8 +24,10 @@ header{
     justify-content: space-between;
     align-content:center;
     background-color: var(--lightRoast);
+    max-height: 30px;
+    
 }
-.headLogo{
+/* .headLogo{
     width:10px;
     height:10px;
     background-color: blue;
@@ -33,6 +35,11 @@ header{
     /* align-items: center; */
     /* //This is silly whhy are they all named the same! */
 
+} */
+header img{
+    /* width:10px;
+    height:10px;
+    max-width: 10px; */
 }
 header nav{
 
