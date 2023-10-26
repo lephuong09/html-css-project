@@ -140,6 +140,7 @@ main{
 
 .cart{
     min-width:40%;
+    padding: 0 20px;
 }
 
 .cart_heading{
@@ -154,8 +155,8 @@ main{
  justify-content: space-between;
  align-items: center;
  border: 1px solid grey;
-    border-radius: 5px;
-    margin: 10px;
+border-radius: 5px;
+margin-bottom: 10px;
     padding: 5px;
 }
 
@@ -232,6 +233,7 @@ main{
     width: 100%;
     display: flex;
     justify-content: space-between;
+    line-height: 1.5;
    }
    .Subtotal{
     font-size: 22px;
@@ -244,12 +246,13 @@ main{
    .total-cost{
    }
    .btnCheckout{
+    width: 100%;
     font-size: 18px;
     height: 40px;
     border: none;
     border-radius: 20px;
     cursor: pointer;
-    margin: 5px auto;
+    margin: 20px auto;
     background-color: #936e4e;
     color: #f8f0dd;
    }
@@ -281,4 +284,9 @@ footer{
     height:10px;
     background-color: rgb(228, 172, 20);
     border-radius: 50%;
+}
+
+.backToTop {
+    text-decoration: none;
+    color: #f8f0dd;
 }
