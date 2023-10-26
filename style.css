@@ -4,7 +4,9 @@
     --rawBean:#a3a869;
     --beige:#d3b090;
     --lightRoast:#936e4e;
-  }
+}
+
+
 
 * {
     border-style: solid;
@@ -41,7 +43,6 @@ header nav{
 main{
     display:flex;
     flex-direction: row;
-    flex-wrap: wrap;
     margin:0;
 }
 
