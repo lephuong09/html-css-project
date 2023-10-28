@@ -215,16 +215,24 @@ main{
     width: 100%;
     display: flex;
     justify-content: space-between;
+    padding:10px;
    }
    .Subtotal{
-    font-size: 22px;
+    font-size: 16px;
     color: #202020;
    }
    .items{
-    font-size: 16px;
+    font-size: 14px;
     line-height: 10px;
    }
    .total-cost{
+   }
+
+   .checkout_btn{
+
+    display: flex;
+    margin: 20px auto;
+
    }
    .btn{
     margin-top: 5px;
@@ -234,6 +242,8 @@ main{
     border-radius: 20px;
     cursor: pointer;
    }
+
+   
 
 /* FOOTER */
 
