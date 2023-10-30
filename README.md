@@ -1,9 +1,10 @@
 # html-css-project
 <p>This is our project for an non-functioning HTML webpage for a cafe</p>
 <p>Created By Phuong, Heena and Tjhai</p>
-
-
-
+<br>
+<h4>Live page link</h4></br>
+<p>https://lephuong09.github.io/html-css-project/</p>
+<br>
 
 <br><br><br><br><br><br><br><br><br><br>
 <p>We can say what we are working on here</p><br>
@@ -21,5 +22,3 @@
 <p>Fix Media Query When cart is added</p><br>
 <p>Add Hover State to buttons</p><br>
 
-<h4>Live page link</h4></br>
-<p>https://lephuong09.github.io/html-css-project/</p>
