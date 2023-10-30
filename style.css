@@ -179,6 +179,7 @@ main{
     border-radius: 5px;
     background-color:#936e4e;
     color: #f8f0dd;
+    cursor: pointer;
 }
 
 /*shopping cart */
