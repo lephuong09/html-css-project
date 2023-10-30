@@ -1,4 +1,14 @@
 # html-css-project
+<p>This is our project for an non-functioning HTML webpage for a cafe</p>
+<p>Created By Phuong, Heena and Tjhai</p>
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br>
+<p>We can say what we are working on here</p><br>
+<p> Below was information that we used for coordinating tasks, <br> the names just represent what we were working on the last we updated it and do not reflect who did what task</p>
+
 <p>We can say what we are working on here</p><br>
 <h3>TASKS:</h3>
 <p>-make shop pwetty and correct format [Phuong]  </p><br>
