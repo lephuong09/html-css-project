@@ -10,3 +10,6 @@
 <p> add about section and structure into main (new div above to have contact and main in a column above shop or something)</p><br>
 <p>Fix Media Query When cart is added</p><br>
 <p>Add Hover State to buttons</p><br>
+
+<h4>Live page link</h4></br>
+<p>https://lephuong09.github.io/html-css-project/</p>
